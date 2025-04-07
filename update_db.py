@@ -4,7 +4,7 @@ import sys
 default_project = {
     "title": "My New Project",
     "description": "Description of my new project.",
-    "link": "https://github.com/MariyaSha",
+    "url": "https://github.com/MariyaSha",
     "thumbnail": "assets/stock_prediction.png"
 }
 
@@ -12,7 +12,7 @@ if len(sys.argv) == 5:
     new_project = {
         "title": sys.argv[1],
         "description": sys.argv[2],
-        "link": sys.argv[3],
+        "url": sys.argv[3],
         "thumbnail": sys.argv[4]
     }
 else:
