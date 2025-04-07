@@ -21,7 +21,7 @@ else:
 conn = sqlite3.connect('instance/portfolio.db')
 c = conn.cursor()
 
-c.execute('INSERT INTO projects (title, description, link, thumbnail) VALUES (:title, :description, :link, :thumbnail)', new_project)
+c.execute('INSERT INTO projects (title, description, url, thumbnail) VALUES (:title, :description, :url, :thumbnail)', new_project)
 conn.commit()
 conn.close()
 
