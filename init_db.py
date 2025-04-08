@@ -8,27 +8,27 @@ socials = [
     {
         "platform": "email",
         "url": "mailto:my_user@email.com",
-        "icon": "assets/email_icon.png"
+        "icon": loc_i + "email_icon.png"
     },
     {
         "platform": "youtube",
         "url": "https://www.youtube.com/@my_user",
-        "icon": "assets/youtube_icon.png"
+        "icon": loc_i + "youtube_icon.png"
     },
     {
         "platform": "linkedin",
         "url": "https://linkedin.com/in/my_user",
-        "icon": "assets/li_icon.png"
+        "icon": loc_i + "li_icon.png"
     },
     {
         "platform": "github",
         "url": "https://github.com/my_user",
-        "icon": "assets/gh_icon.png"
+        "icon": loc_i + "gh_icon.png"
     },
     {
         "platform": "x",
         "url": "https://x.com/my_user",
-        "icon": "assets/x_icon.png"
+        "icon": loc_i + "x_icon.png"
     }
 ]
 
@@ -38,31 +38,31 @@ projects = [
         "title": "Project Title 1",
         "description": "description of project 1",
         "url": "https://github.com/my_user/project1",
-        "thumbnail": "assets/voice_chat.png"
+        "thumbnail": loc_t + "voice_chat.png"
     },
     {
         "title": "Project Title 2",
         "description": "description of project 2",
         "url": "https://github.com/my_user/project2",
-        "thumbnail": "assets/stock_prediction.png"
+        "thumbnail": loc_t + "stock_prediction.png"
     },
     {
         "title": "Project Title 3",
         "description": "description of project 3",
         "url": "https://github.com/my_user/project3",
-        "thumbnail": "assets/recipe_picker.png"
+        "thumbnail": loc_t + "recipe_picker.png"
     },
     {
         "title": "Project Title 4",
         "description": "description of project 4",
         "url": "https://github.com/my_user/project4",
-        "thumbnail": "assets/image_gen.png"
+        "thumbnail": loc_t + "image_gen.png"
     },
     {
         "title": "Project Title 5",
         "description": "description of project 5",
         "url": "https://github.com/my_user/project5",
-        "thumbnail": "assets/dj_studio.png"
+        "thumbnail": loc_t + "dj_studio.png"
     },
 ]
 
