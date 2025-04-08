@@ -1,94 +1,85 @@
 import sqlite3
 
+loc_i = "assets/icons/"
+loc_t = "assets/thumbnails/"
+
 socials = [
+    # social media and contact information
     {
         "platform": "email",
-        "url": "mailto:mariya@pythonsimplified.org",
+        "url": "mailto:my_user@email.com",
         "icon": "assets/email_icon.png"
     },
     {
         "platform": "youtube",
-        "url": "https://www.youtube.com/@pythonsimplified",
+        "url": "https://www.youtube.com/@my_user",
         "icon": "assets/youtube_icon.png"
     },
     {
         "platform": "linkedin",
-        "url": "https://linkedin.com/in/mariyasha888",
+        "url": "https://linkedin.com/in/my_user",
         "icon": "assets/li_icon.png"
     },
     {
         "platform": "github",
-        "url": "https://github.com/mariyasha",
+        "url": "https://github.com/my_user",
         "icon": "assets/gh_icon.png"
     },
     {
-        "platform": "twitter",
-        "url": "https://twitter.com/mariyasha888",
+        "platform": "x",
+        "url": "https://x.com/my_user",
         "icon": "assets/x_icon.png"
     }
 ]
 
 projects = [
+    # personal GitHub projects to showcase
     {
-        "title": "AI voice chat",
-        "description": "speech-to-text and text-to-speech voice assistant using a pre-trained Qwen language model",
-        "url": "https://github.com/MariyaSha/voice_chat",
+        "title": "Project Title 1",
+        "description": "description of project 1",
+        "url": "https://github.com/my_user/project1",
         "thumbnail": "assets/voice_chat.png"
     },
     {
-        "title": "Stock Predicting App",
-        "description": "full-stack S&P 500 stock value predicting data dashboard.",
-        "url": "https://github.com/MariyaSha/data_science_dashboard",
+        "title": "Project Title 2",
+        "description": "description of project 2",
+        "url": "https://github.com/my_user/project2",
         "thumbnail": "assets/stock_prediction.png"
     },
     {
-        "title": "Random Recipe Picker",
-        "description": "Tkinter GUI application that fetches random recipes from Sqlite dataset.",
-        "url": "https://github.com/MariyaSha/RandomRecipePicker",
+        "title": "Project Title 3",
+        "description": "description of project 3",
+        "url": "https://github.com/my_user/project3",
         "thumbnail": "assets/recipe_picker.png"
     },
     {
-        "title": "Image Generating App",
-        "description": "image generating app with Docker, Satble Diffusion and upscaling techniques.",
-        "url": "https://github.com/MariyaSha/StableDiffusion_GUI_App",
+        "title": "Project Title 4",
+        "description": "description of project 4",
+        "url": "https://github.com/my_user/project4",
         "thumbnail": "assets/image_gen.png"
     },
     {
-        "title": "AlteredNet Image Dataset",
-        "description": "manually curated image dataset and research for detection of real and AI-generated images.",
-        "url": "https://github.com/MariyaSha/AlteredNet",
-        "thumbnail": "assets/alterednet.png"
-    },
-    {
-        "title": "DJ Mixing Studio",
-        "description": "DJ Deck Mixer GUI Application with C++ and JUCE, based on Object Oriented Programming principles.",
-        "url": "https://github.com/MariyaSha/DJMixingStudio",
+        "title": "Project Title 5",
+        "description": "description of project 5",
+        "url": "https://github.com/my_user/project5",
         "thumbnail": "assets/dj_studio.png"
-    }
+    },
 ]
 
 skills = [
+    # software and tools showcased in the protfolio
     {"name": "Python"},
-    {"name": "Flask"},
-    {"name": "Jinja2"},
     {"name": "HTML"},
     {"name": "CSS"},
-    {"name": "Git"},
     {"name": "Docker"},
-    {"name": "Transformers"},
-    {"name": "Tkinter"},
-    {"name": "Pytorch"},
-    {"name": "C++"},
-    {"name": "JUCE"},
-    {"name": "Sqlite"}
 ]
 
 profile = [
     {
-        "name": "Mariya Sha, BSc",
-        "title": "Software Developer",
-        "bio": "Fresh graduate of UoL, passionate about data science and AI.",
-        "location": "Mission, British Columbia"
+        "name": "My Name",
+        "title": "My Job Title",
+        "bio": "Short description about me any my career goals.",
+        "location": "my city, state/province"
     }
 ]
 
