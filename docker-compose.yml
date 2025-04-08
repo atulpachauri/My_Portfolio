@@ -3,7 +3,7 @@ services:
   web:
     image: my-portfolio:latest
     ports:
-      - "5000:5000"
+      - "8000:5000"
     volumes:
       - ./:/app
     deploy:
