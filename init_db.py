@@ -8,27 +8,27 @@ socials = [
     {
         "platform": "email",
         "url": "mailto:my_user@email.com",
-        "icon": loc_i + "email_icon.png"
+        "icon": loc_i + "email.png"
     },
     {
         "platform": "youtube",
         "url": "https://www.youtube.com/@my_user",
-        "icon": loc_i + "youtube_icon.png"
+        "icon": loc_i + "youtube.png"
     },
     {
         "platform": "linkedin",
         "url": "https://linkedin.com/in/my_user",
-        "icon": loc_i + "li_icon.png"
+        "icon": loc_i + "linkedin.png"
     },
     {
         "platform": "github",
         "url": "https://github.com/my_user",
-        "icon": loc_i + "gh_icon.png"
+        "icon": loc_i + "github.png"
     },
     {
         "platform": "x",
         "url": "https://x.com/my_user",
-        "icon": loc_i + "x_icon.png"
+        "icon": loc_i + "x.png"
     }
 ]
 
@@ -76,8 +76,8 @@ skills = [
 
 profile = [
     {
-        "name": "My Name",
-        "title": "My Job Title",
+        "name": "My name",
+        "title": "My job title",
         "bio": "Short description about me any my career goals.",
         "location": "my city, state/province"
     }
