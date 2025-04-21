@@ -6,7 +6,7 @@ This repository was created as a resource for my <a href="https://youtu.be/RZpMe
 <a href="https://youtu.be/RZpMevjnLR8"><img src="https://github.com/user-attachments/assets/d32f32b1-a656-41ab-affd-5d58415d5023" width=600px></a>
 
 ## Instructions
-### Develop Locally
+### Develop Locally 🏠
 1. Run your app and view it in your browser @ `localhost` or `localhost:80`:
 ```
 cd dev_portfolio_simplified
@@ -17,7 +17,7 @@ docker compose up
 4. update `static/script.js` with your JavaScript browser intercations. 
 5. saving each of the above files, and refreshing the web page - will automatically update your website locally.
 
-### Publish on a Remote Server
+### Publish on a Remote Server 🚀
 1. switch to a production server like Green Unicorn, by updating your Dockerfile:
 ```
 FROM python:3.12-slim
@@ -77,13 +77,13 @@ If you're not sure what Flask is, or why do we need Docker, or how on earth do w
 <br>
 <br>
 ⭐ Simple Hello World Web App with Flask:
-    <br>https://youtu.be/6plVs_ytIH8
+    <br>    https://youtu.be/6plVs_ytIH8
     <br>
 ⭐ Introduction to SQLite:
-    <br>https://youtu.be/Ohj-CqALrwk
+    <br>    https://youtu.be/Ohj-CqALrwk
     <br>
 ⭐ Advanced Web App with Flask, and SQLite:
-    <br>https://youtu.be/v3CSQkPJtAc
+    <br>    https://youtu.be/v3CSQkPJtAc
     <br>
 ⭐ Introduction to Docker:
-    <br>https://youtu.be/-l7YocEQtA0
+    <br>    https://youtu.be/-l7YocEQtA0
