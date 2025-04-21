@@ -3,6 +3,7 @@ Customizable Professional Developer Portfolio for Beginners with Docker Stack
 
 ## Video Tutorial
 <a href="https://youtu.be/RZpMevjnLR8"><img src="https://github.com/user-attachments/assets/d32f32b1-a656-41ab-affd-5d58415d5023" width=600px></a>
+<br>
 Please follow along on YouTube: https://youtu.be/RZpMevjnLR8
 
 ## Instructions
