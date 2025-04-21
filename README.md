@@ -77,13 +77,13 @@ If you're not sure what Flask is, or why do we need Docker, or how on earth do w
 <br>
 <br>
 ⭐ Simple Hello World Web App with Flask:
-    https://youtu.be/6plVs_ytIH8
+    <br>https://youtu.be/6plVs_ytIH8
     <br>
 ⭐ Introduction to SQLite:
-    https://youtu.be/Ohj-CqALrwk
+    <br>https://youtu.be/Ohj-CqALrwk
     <br>
 ⭐ Advanced Web App with Flask, and SQLite:
-    https://youtu.be/v3CSQkPJtAc
+    <br>https://youtu.be/v3CSQkPJtAc
     <br>
 ⭐ Introduction to Docker:
-    https://youtu.be/-l7YocEQtA0
+    <br>https://youtu.be/-l7YocEQtA0
