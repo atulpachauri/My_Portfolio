@@ -70,11 +70,10 @@ For 10% off on your VPS plan please navigate to:
 <br>
 http://hostinger.com/pythonsimplified
 <br>
-And enter the coupon code: 
 <br>
-**PYTHONSIMPLIFIED**
+And enter the coupon code: **PYTHONSIMPLIFIED**
 
-## Further Learning
+## 📚 Further Learning 📚
 If you're not sure what Flask is, or why do we need Docker, or how on earth do we work with SQLite, please checkout the following learning resources on YouTube to get you up to speed:
 <br>
 <br>
