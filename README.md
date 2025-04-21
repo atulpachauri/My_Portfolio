@@ -69,3 +69,11 @@ docker exec [CONTAINER ID GOES HERE] python3 /app/init_db.py
 For 10% off on your VPS plan, please navigate to: http://hostinger.com/pythonsimplified
 <br>
 And enter the coupon code: PYTHONSIMPLIFIED
+
+## Further Learning
+If you're not sure what Flask is, or why do we need Docker, or how on earth do we work with SQLite, please checkout the following learning resources on YouTube to get you up to speed:
+
+- Simple Hello World Web App with Flask: https://youtu.be/6plVs_ytIH8
+- Introduction to SQLite: https://youtu.be/Ohj-CqALrwk
+- Advanced Web App with Flask, and SQLite: https://youtu.be/v3CSQkPJtAc
+- Introduction to Docker: https://youtu.be/-l7YocEQtA0
