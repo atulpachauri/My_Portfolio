@@ -72,7 +72,7 @@ http://hostinger.com/pythonsimplified
 <br>
 And enter the coupon code: 
 <br>
-PYTHONSIMPLIFIED
+**PYTHONSIMPLIFIED**
 
 ## Further Learning
 If you're not sure what Flask is, or why do we need Docker, or how on earth do we work with SQLite, please checkout the following learning resources on YouTube to get you up to speed:
