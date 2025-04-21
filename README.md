@@ -6,7 +6,7 @@ This repository was created as a resource for my <a href="https://youtu.be/RZpMe
 <a href="https://youtu.be/RZpMevjnLR8"><img src="https://github.com/user-attachments/assets/d32f32b1-a656-41ab-affd-5d58415d5023" width=600px></a>
 
 ## Instructions
-### Develop Locally 🏠
+### 🏠 Develop Locally 🏠
 1. Run your app and view it in your browser @ `localhost` or `localhost:80`:
 ```
 cd dev_portfolio_simplified
@@ -17,7 +17,7 @@ docker compose up
 4. update `static/script.js` with your JavaScript browser intercations. 
 5. saving each of the above files, and refreshing the web page - will automatically update your website locally.
 
-### Publish on a Remote Server 🚀
+### 🚀 Publish on a Remote Server 🚀
 1. switch to a production server like Green Unicorn, by updating your Dockerfile:
 ```
 FROM python:3.12-slim
@@ -65,12 +65,14 @@ docker stack deploy -c docker-compose.yml my-portfolio
 ```
 docker exec [CONTAINER ID GOES HERE] python3 /app/init_db.py
 ```
-## Coupon Code
-💵 For 10% off on your VPS plan 💵 
+## 💵 Coupon Code 💵
+For 10% off on your VPS plan please navigate to: 
 <br>
-please navigate to: http://hostinger.com/pythonsimplified
+http://hostinger.com/pythonsimplified
 <br>
-And enter the coupon code: PYTHONSIMPLIFIED
+And enter the coupon code: 
+<br>
+PYTHONSIMPLIFIED
 
 ## Further Learning
 If you're not sure what Flask is, or why do we need Docker, or how on earth do we work with SQLite, please checkout the following learning resources on YouTube to get you up to speed:
