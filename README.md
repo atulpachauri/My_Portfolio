@@ -1,7 +1,7 @@
 # dev_portfolio_simplified
 Customizable Professional Developer Portfolio for Beginners with Docker Stack
 
-<a href="https://youtu.be/RZpMevjnLR8"><img src="https://github.com/user-attachments/assets/8ce05e61-6050-4c82-8c1e-f45e16c88919" width=600px></a>
+<a href="https://youtu.be/RZpMevjnLR8"><img src="https://github.com/user-attachments/assets/d32f32b1-a656-41ab-affd-5d58415d5023" width=600px></a>
 
 ## Instructions
 
