@@ -67,3 +67,7 @@ docker stack deploy -c docker-compose.yml my-portfolio
 ```
 docker exec [CONTAINER ID GOES HERE] python3 /app/init_db.py
 ```
+## Coupon Code
+For 10% off on your VPS plan, please navigate to: http://hostinger.com/pythonsimplified
+<br>
+And enter the coupon code: PYTHONSIMPLIFIED
