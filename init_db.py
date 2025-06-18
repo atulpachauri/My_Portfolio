@@ -33,7 +33,7 @@ projects = [
     {
         "title": "Restaurant data analysis on user Engagement",
         "description": "How user engagement experience a corresponding increase in review and ratings",
-        "url": "https://github.com/atulpachauri/SQL_Projects/blob/main/yelp_data_analysis.ipynb",
+        "url": "https://github.com/atulpachauri/SQL_Projects/blob/main/Restaurant_data_analysis.ipynb",
         "thumbnail": loc_t + "recipe_picker.png"
     },
     {
