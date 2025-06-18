@@ -1,8 +1,7 @@
 version: "3.8"
 services:
   web:
-    build:
-      context: .
+    image: my-portfolio:latest
     ports:
       - "80:5000"
     volumes:
@@ -12,8 +11,7 @@ services:
         condition: any
 
   updater:
-    build:
-      context: .
+    image: my-portfolio:latest
     command: ["tail", "-f", "/dev/null"]
     volumes:
       - ./:/app

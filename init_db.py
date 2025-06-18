@@ -7,79 +7,92 @@ socials = [
     # social media and contact information
     {
         "platform": "email",
-        "url": "mailto:my_user@email.com",
+        "url": "mailto:atulpachouri20@email.com",
         "icon": loc_i + "email.png"
     },
     {
-        "platform": "youtube",
-        "url": "https://www.youtube.com/@my_user",
-        "icon": loc_i + "youtube.png"
-    },
-    {
         "platform": "linkedin",
-        "url": "https://linkedin.com/in/my_user",
+        "url": "https://www.linkedin.com/in/atul-pachauri-data-analyst/",
         "icon": loc_i + "linkedin.png"
     },
     {
         "platform": "github",
-        "url": "https://github.com/my_user",
+        "url": "https://github.com/atulpachauri",
         "icon": loc_i + "github.png"
     },
-    {
-        "platform": "x",
-        "url": "https://x.com/my_user",
-        "icon": loc_i + "x.png"
-    }
 ]
 
 projects = [
     # personal GitHub projects to showcase
     {
-        "title": "Project Title 1",
-        "description": "description of project 1",
-        "url": "https://github.com/my_user/project1",
+        "title": "Flask App",
+        "description": "Calculate different Type of numeric calculations",
+        "url": "https://potofof672.pythonanywhere.com/home",
         "thumbnail": loc_t + "voice_chat.png"
     },
     {
-        "title": "Project Title 2",
-        "description": "description of project 2",
-        "url": "https://github.com/my_user/project2",
-        "thumbnail": loc_t + "stock_prediction.png"
-    },
-    {
-        "title": "Project Title 3",
-        "description": "description of project 3",
-        "url": "https://github.com/my_user/project3",
+        "title": "Restaurant data analysis on user Engagement",
+        "description": "How user engagement experience a corresponding increase in review and ratings",
+        "url": "https://github.com/atulpachauri/SQL_Projects/blob/main/yelp_data_analysis.ipynb",
         "thumbnail": loc_t + "recipe_picker.png"
     },
     {
-        "title": "Project Title 4",
-        "description": "description of project 4",
-        "url": "https://github.com/my_user/project4",
+        "title": "Amazon sales Case Study",
+        "description": "Analysis on different factors that affect sales of the different branches",
+        "url": "https://github.com/atulpachauri/SQL_Projects/blob/main/SQL Project Amazon sales Case Study.pptx",
+        "thumbnail": loc_t + "stock_prediction.png"
+    },
+    {
+        "title": "Movie Recommender System",
+        "description": "Movie recommender system a machine learning model recommends similar movies",
+        "url": "https://github.com/atulpachauri/My_Projects/blob/main/Movie_Recommender_System.ipynb",
+        "thumbnail": loc_t + "recomend.png"
+    },
+    {
+        "title": "Online Retail Exploratory Data Analysis",
+        "description": "Identifying most selling product across different country which can help to plan inventory stock",
+        "url": "https://github.com/atulpachauri/My_Projects/blob/main/online_retail.ipynb",
+        "thumbnail": loc_t + "dj_studio.png"
+    },
+    {
+        "title": "Predictive Modeling",
+        "description": "Identifying product defects based on historical data",
+        "url": "https://github.com/atulpachauri/My_Projects/blob/main/Data manipulation and linear regression over iris dataset.ipynb",
         "thumbnail": loc_t + "image_gen.png"
     },
     {
-        "title": "Project Title 5",
-        "description": "description of project 5",
-        "url": "https://github.com/my_user/project5",
-        "thumbnail": loc_t + "dj_studio.png"
+        "title": "Diwali Sales Analysis",
+        "description": "Identifying which product on which location are most saling product on Diwali",
+        "url": "https://github.com/atulpachauri/My_Projects/blob/main/Python Diwali Sales Analysis Project .ipynb",
+        "thumbnail": loc_t + "diwali.png"
     },
+    
 ]
 
 skills = [
     # software and tools showcased in the protfolio
     {"name": "Python"},
     {"name": "HTML"},
-    {"name": "CSS"},
     {"name": "Docker"},
+    {"name": "SQL"},
+    {"name": "PowerBI"},
+    {"name": "ETL(SSIS)"},
+    {"name": "Flask"},
+    {"name": "Git"},
+    {"name": "PySpark"},
+    {"name": "BigData"},
+    {"name": "MongoDB"},
+    {"name": "Machine Learning"},
+    {"name": "Looker Studio"},
+    {"name": "Google Cloud"},
 ]
 
 profile = [
     {
-        "name": "My name",
-        "title": "My job title",
-        "bio": "Short description about me any my career goals.",
-        "location": "my city, state/province"
+        "name": "Atul Pachauri",
+        "title": "Data Science Professional",
+        "bio": "Data Science Certified, Passionate about Data and AI",
+        "location": "Agra, Uttar Pradesh India"
     }
 ]
 

@@ -3,8 +3,9 @@ body {
     padding: 20px;
     line-height: 1.6;
     color: #e0e0e0;
-    background: linear-gradient(135deg, #7B22FF, #00DCDE);
+    background: linear-gradient(135deg, #13ffd8, #de00b2);
     font-family: 'Ubuntu', sans-serif;
+    font-size: 0.75em;
 }
 
 header {
